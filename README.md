@@ -70,6 +70,6 @@ yarn start
    yarn ios
    ```
 <p align="center">
-    <img src="./src/assets/screens/1.jpeg" alt="Screen 1" width="400">
     <img src="./src/assets/screens/2.jpeg" alt="Screen 2" width="400">
+    <img src="./src/assets/screens/1.jpeg" alt="Screen 1" width="400">
 </p>
